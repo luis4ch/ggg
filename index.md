@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
+# Você sabe o que é um lowrider?
+
+
+
+
+Lowrider são os carros com o sistema de suspensão modificado e que anda tão junto ao chão quanto possível. Atualmente se usa mais a suspensão hidráulica, mas mesmo assim os mais saudosistas apenas retiram as molas da suspensão. A cultura Lowrider surgiu nas periferias dos Estados Unidos, na divisa com o México.
+<p>Não é qualquer carro que pode virar um lowrider. Na lista de modelos preferidos para a customização, figuram veículos e marcas como Impala, Caprice, Malibu, Buick, Cadillac e Lincoln.</p>
+<p>Os lowriders são rico em detales, pinturas estilosas e usam rodas raiadas</p>
+
 
 You can use the [editor on GitHub](https://github.com/luis4ch/ggg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+Whenever yo
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
